@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>CodingTestSite</title>
-		<meta charset="utf-8">
-		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="css/style.css">
-		<meta name="viewport" content="width=device-width">
-	</head>
-
-	<body>
-		<header class="mainHeader">
-			<img src="Images/ctsLogo.png" title="CodingTestSite Logo">
-			<h1>CodingTestSite</h1>
-		</header>
-		
-		<nav class="mainNav">
-			<ul>
-				<li> <a href="index.htm" class="active">Home</a> </li>
-				<li> <a href="projects.html">Projects</a>
-					<ul>
-						<li><a href="rpl.html">RPL</a></li>
-					</ul>
-				</li>
-				<li> <a href="blog.html">Blog</a> </li>
-				<li> <a href="contact.html">Contact Me</a> </li>
-			</ul>
-		</nav>
+<?php include("inc/header.php"); ?>
 		
 		<section class="mainBody">
 			<h2>Intro</h2>
@@ -47,15 +20,4 @@
 			out my profile by clicking <a href="http://teamtreehouse.com/samuelwebb">HERE</a>			
 		</section>
 
-
-		<footer>
-			<p>&copy;2014 Sam Webb</p>
-		</footer>
-	
-	<!-- jQuery library -->
-	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-	<!-- Main Javascript -->
-	<script src="javascript/mainJS.js"></script>
-	</body>
-
-</html>
+<?php include("inc/footer.php"); ?>
