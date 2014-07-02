@@ -104,8 +104,7 @@ SECTION: NAVIGATION
 	text-shadow: 1px 1px #000, -1px -1px #000;
 }
 
-.mainNav a:hover,
-.mainNav a.active {
+.mainNav a:hover {
 	color: red;
 }
 
