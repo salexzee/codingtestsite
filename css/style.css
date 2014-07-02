@@ -25,7 +25,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: grey; /*DEFAULT GREY WAS WHY I USED THIS PROPERTY*/
+	color: grey;
 }
 
 p {
@@ -33,8 +33,10 @@ p {
 	max-width: 800px;
 }
 
-a:focus, a:hover, a:active {
-	color: red; /*DEFAULT RED WAS WHY I USED THIS PROPERTY*/
+a:focus,
+a:hover,
+a:active {
+	color: red;
 }
 
 
@@ -77,7 +79,8 @@ SECTION: NAVIGATION
 	margin: 10px 0;
 }
 
-.mainNav, .mainNav ul ul {
+.mainNav,
+.mainNav ul ul {
 	background-color: #c0c0c0; /*COLOR: LIGHT GREY*/
 	border: 1px solid #000; /*COLOR: WHITE*/
 	border-radius: 5px;
@@ -101,8 +104,9 @@ SECTION: NAVIGATION
 	text-shadow: 1px 1px #000, -1px -1px #000;
 }
 
-.mainNav a:hover, .mainNav a.active {
-	color: red; /*DEFAULT RED WAS WHY I USED THIS PROPERTY*/
+.mainNav a:hover,
+.mainNav a.active {
+	color: red;
 }
 
 .mainNav ul ul {
@@ -111,7 +115,9 @@ SECTION: NAVIGATION
 	min-width: 150px;
 }
 
-.mainNav ul ul li, .mainNav li:hover ul, .mainNav a {
+.mainNav ul ul li,
+.mainNav li:hover ul,
+.mainNav a {
 	display: block;
 }
 
@@ -211,10 +217,12 @@ AT BELOW 425PX, RUN THIS CODE
 	.mainHeader img {
 		height: 35px;
 	}
+	
 	.mainHeader h1 {
 		font-size: 25px;
 	}
-		.mainNav li {
+	
+	.mainNav li {
 		width: 96%;
 	}
 	
