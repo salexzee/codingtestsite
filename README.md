@@ -13,15 +13,11 @@ that I'm learning about
 
 CSS transforms and transitions
 
-probably convert over to PHP since it's easier to maintain
-
 maybe start using SASS
 
 keep the site having a fun look to it
 
 do some stuff with jQuery
-
-consolidate CSS files
 
 eventually remove rock paper lazers game and replace projects page
 
