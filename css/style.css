@@ -1,5 +1,6 @@
-/*LAST UPDATED BY SAM WEBB ON JUNE 8, 2014*/
-/*CONDENSED TO CONFORM TO 'DRY' STANDARD*/
+/* WHAT WHAT, IN THE BUTT */
+/* AIN'T NOBODY GOT TIME FO DAT */
+/* DEAD GIVEAWAY, DEEEAAAAD GIVEAWAY */
 
 
 
@@ -221,7 +222,6 @@ AT BELOW 425PX, RUN THIS CODE
 		font-size: .8em;
 	}
 	
-	
 /******************************
 I'm not 100% sure which one
 of these turned off the dropdown
@@ -236,5 +236,90 @@ and can be sure.
 	.mainNav ul ul {
 		position: none;
 	}
+}
+/******************************/
+
+
+/*			PAGE SPECIFIC         */
+
 
 /******************************/
+
+
+/*****************************
+******************************
+
+CONTACT PAGE
+
+******************************
+*****************************/
+
+#contactSelectors {
+	text-align: center;
+	border-top: 1px solid #666;
+	margin: 0 30px;
+	padding-top: 20px;
+}
+
+#contactSelectors img {
+	width: 3em;
+	height: auto;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#contactSelectors img#twitter {
+	width: 2em;
+	background-color: #333;
+	margin-bottom: 5px;
+	padding: 7px;
+	border-radius: 5px;
+}
+
+
+
+/*****************************
+******************************
+
+RPL PAGE
+
+******************************
+*****************************/
+
+button[type="button"] {
+	margin-left: 20px;
+	height: 100px;
+	width: 100px;
+	border: 2px solid black;
+	background: darkgrey;
+	color: white;
+	border-radius: 100%;
+}
+
+button[type="button"]:hover {
+	color: red;
+	border-color: red;
+}
+
+.jscode {
+	font-size: 12px;
+	color: #c40808;
+	background-color: #ddd;
+	width: 50%;
+	margin: 10px auto;
+	padding: 10px;
+	border: 1px dotted #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

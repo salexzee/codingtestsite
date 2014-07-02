@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>CodingTestSite</title>
-		<meta charset="utf-8">
-		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="css/style.css">
-		<link rel="stylesheet" href="css/jscode.css">
-		<link rel="stylesheet" href="css/rpl.css">
-		<script type="text/javascript" src="javascript/rpl.js"></script>
-		<meta name="viewport" content="width=device-width">
-	</head>
-
-	<body>
-		<header class="mainHeader">
-			<img src="Images/ctsLogo.png" title="CodingTestSite Logo">
-			<h1>CodingTestSite</h1>
-		</header>
-		
-		<nav class="mainNav">
-			<ul>
-				<li> <a href="index.html">Home</a> </li>
-				<li> <a href="projects.html" class="active">Projects</a>
-					<ul>
-						<li><a href="rpl.html" class="active">RPL</a></li>
-					</ul>
-				 </li>
-				<li> <a href="blog.html">Blog</a> </li>
-				<li> <a href="contact.html">Contact Me</a> </li>
-			</ul>
-		</nav>
+<?php include("inc/header.php"); ?>
 		
 		<section class="mainBody">
 			<h2>Rock Paper Lazer</h2>
@@ -110,12 +80,4 @@ VISIBLE JAVASCRIPT CODE ENDS HERE
 			
 
 
-		</section>
-
-		<footer>
-			<p>&copy;2014 Sam Webb</p>
-		</footer>
-	
-	</body>
-
-</html>
+<?php include("inc/footer.php"); ?>
