@@ -11,5 +11,6 @@
 			learning to code. So everything I learn, I will be testing out on this site, as well
 			as writing blog posts to help teach aspiring coders the things I've learned and am
 			currently learning about.</p>
+		</section>
 
 <?php include("inc/footer.php"); ?>
