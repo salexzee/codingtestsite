@@ -1,0 +1,22 @@
+/*****************************
+******************************
+
+BUTTON STYLING
+
+******************************
+*****************************/
+
+button[type="button"] {
+	margin-left: 20px;
+	height: 100px;
+	width: 100px;
+	border: 2px solid black;
+	background: darkgrey;
+	color: white;
+	border-radius: 100%;
+}
+
+button[type="button"]:hover {
+	color: red;
+	border-color: red;
+}

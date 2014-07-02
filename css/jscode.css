@@ -1,0 +1,21 @@
+/*LAST UPDATED BY SAM WEBB ON JUNE 2, 2014*/
+
+
+/*****************************
+******************************
+
+STYLING FOR VISIBLE JS CODE
+IN MY PROJECT PAGES.
+
+******************************
+*****************************/
+
+.jscode {
+	font-size: 12px;
+	color: #c40808;
+	background-color: #ddd;
+	width: 50%;
+	margin: 10px auto;
+	padding: 10px;
+	border: 1px dotted #000;
+}
