@@ -5,7 +5,7 @@
 	<!-- jQuery library -->
 	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 	<!-- Main Javascript -->
-	<script src="javascript/mainJS.js"></script>
+	<script src="javascript/rpl.js"></script>
 	</body>
 
 </html>

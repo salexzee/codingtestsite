@@ -22,3 +22,5 @@ do some stuff with jQuery
 eventually remove rock paper lazers game and replace projects page
 
 PHP contact form on contact page
+
+make blog page have shortened posts that lead to external full length blogs
