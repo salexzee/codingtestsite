@@ -4,7 +4,7 @@
 			<h2>New projects</h2>
 			<p>In this section is a list of all current projects I am working on.</p>
 			<ul>
-				<li><a href="rpl.html">Rock Paper Lazers(RPL)</a>
+				<li><a href="rpl.php">Rock Paper Lazers(RPL)</a>
 					<p>This is a spin off of the basic Rock Paper Scissors game where
 					Lazers takes the place of Scissors. It is a simple game that I
 					learned how to build on <a href="http://codecademy.com">Codecademy</a>.
