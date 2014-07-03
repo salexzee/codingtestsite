@@ -19,7 +19,7 @@ keep the site having a fun look to it
 
 do some stuff with jQuery
 
-eventually remove rock paper lazers game and replace projects page
+replace projects page (rpl game not removed, just removed from navigation)
 
 PHP contact form on contact page
 
