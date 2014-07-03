@@ -17,11 +17,7 @@
 		<nav class="mainNav">
 			<ul>
 				<li> <a href="index.php">Home</a> </li>
-				<li> <a href="projects.php">Projects</a>
-					<ul>
-						<li><a href="rpl.php">RPL</a></li>
-					</ul>
-				</li>
+				<li> <a href="projects.php">Projects</a></li>
 				<li> <a href="blog.php">Blog</a> </li>
 				<li> <a href="contact.php">Contact Me</a> </li>
 			</ul>

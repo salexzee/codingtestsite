@@ -12,9 +12,6 @@ GLOBAL RULES
 ******************************
 *****************************/
 
-html {
-	background-color: #ccc; /*COLOR: LIGHT GREY*/
-}
 
 body {
 	font-family: "Comic Sans MS", sans-serif;
@@ -25,7 +22,6 @@ body {
 
 a {
 	text-decoration: none;
-	color: grey;
 }
 
 p {
@@ -33,10 +29,51 @@ p {
 	max-width: 800px;
 }
 
+
+
+
+
+/*****************************
+COLOR
+*****************************/
+
+html {
+	background-color: #55f;
+}
+
+a {
+	color: #55f;
+}
+
 a:focus,
 a:hover,
 a:active {
-	color: red;
+	color: #55f;
+}
+
+.mainHeader h1 {
+	color: #f91;
+}
+
+.mainNav a {
+	color: #000;
+}
+
+.mainNav,
+.mainBody,
+.mainBody {
+	border-color: #000;
+	background-color: #fff;
+}
+
+.mainBody h4 {
+	color: #666;
+}
+
+footer  p {
+	font-weight: bold;
+	color: #f91;
+	margin-top: 20px;
 }
 
 
@@ -62,7 +99,7 @@ SECTION: HEADER
 .mainHeader h1 {
 	font-size: 75px;
 	margin: 0;
-	text-shadow: 1px 1px #fff,4px 4px 10px #555;
+	text-shadow: 1px 1px #fff,4px 4px 10px #000;
 }
 
 
@@ -79,45 +116,29 @@ SECTION: NAVIGATION
 	margin: 10px 0;
 }
 
-.mainNav,
-.mainNav ul ul {
-	background-color: #c0c0c0; /*COLOR: LIGHT GREY*/
-	border: 1px solid #000; /*COLOR: WHITE*/
+.mainNav {
+	border: 1px solid;
 	border-radius: 5px;
-	box-shadow: 5px 5px 5px #888; /*COLOR: GREY*/
+	box-shadow: 5px 5px 5px #119;
 }
 
 .mainNav ul {
-	margin: 0;
+	margin: 0 ;
 }
 
 .mainNav li {
 	display: inline-block;
 	width: 24%;
 	padding: 0;
-	margin: 5px 0 0 0;
+	margin: 5px auto;
 }
 
 .mainNav a {
 	text-decoration: none;
-	color: white;
-	text-shadow: 1px 1px #000, -1px -1px #000;
-}
-
-.mainNav a:hover {
-	color: red;
-}
-
-.mainNav ul ul {
-	display: none;
-	position: absolute;
-	min-width: 150px;
-}
-
-.mainNav ul ul li,
-.mainNav li:hover ul,
-.mainNav a {
+	text-align: center;
 	display: block;
+	margin-left: -25px;
+
 }
 
 
@@ -131,10 +152,9 @@ SECTION: BODY
 *****************************/
 
 .mainBody {
-	background: #fff; /*COLOR: LIGHT GREY*/
-	border: 1px solid #000; /*COLOR: WHITE*/
+	border: 1px solid;
 	border-radius: 5px;
-	box-shadow: 10px 10px 5px #888; /*COLOR: GREY*/
+	box-shadow: 5px 5px 5px #119;
 }
 
 .mainBody p, .mainBody h2, .mainBody h4 {
@@ -144,7 +164,6 @@ SECTION: BODY
 
 .mainBody h4 {
 	font-size: .8em;
-	color: #666;
 }
 
 
@@ -159,7 +178,6 @@ SECTION: FOOTER
 
 footer  p {
 	font-weight: bold;
-	color: #a0a0a0; /*COLOR: LIGHT GREY*/
 	margin-top: 20px;
 }
 
@@ -228,22 +246,12 @@ AT BELOW 425PX, RUN THIS CODE
 	.mainBody {
 		font-size: .8em;
 	}
-	
-/******************************
-I'm not 100% sure which one
-of these turned off the dropdown
-so I'm just going to leave them
-all until I have more experience
-and can be sure.
-*******************************/
-	.mainNav li:hover ul, .mainNav ul ul, .mainNav ul ul li {
-		display: none;
-	}
-
-	.mainNav ul ul {
-		position: none;
-	}
 }
+
+
+
+
+
 /******************************/
 
 
@@ -304,14 +312,15 @@ button[type="button"] {
 }
 
 button[type="button"]:hover {
-	color: red;
-	border-color: red;
+	color: #f91;
+	border-color: #f91;
+	background-color: #55f;
 }
 
 .jscode {
 	font-size: 12px;
-	color: #c40808;
-	background-color: #ddd;
+	color: #000;
+	background-color: rgba(0,0,255,.1);
 	width: 50%;
 	margin: 10px auto;
 	padding: 10px;

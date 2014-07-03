@@ -2,7 +2,7 @@
 		
 		<section class="mainBody">
 			<h2>The student is still the student</h2>
-			<p>Hey coders, welcome to <span style="color:red">CodingTestSite</span>. Firstly,
+			<p>Hey coders, welcome to CodingTestSite. Firstly,
 			I'd like to thank you for visiting my site, and I hope you learn a thing or two
 			from it. Oh I'm sorry, let me introduce myself. My name is Sam and I'm a
 			Front-end Web Developer. This was the first website I created and now has come the
