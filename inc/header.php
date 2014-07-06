@@ -10,7 +10,7 @@
 
 	<body>
 		<header class="mainHeader">
-			<img src="Images/ctsLogo.png" alt="CodingTestSite Logo">
+			<img src="images/ctsLogo.png" alt="CodingTestSite Logo">
 			<h1>CodingTestSite</h1>
 		</header>
 		
