@@ -1,6 +1,6 @@
 	<footer class="navbar navbar-inverse navbar-fixed-bottom">
 		<div class="container">
-			<p class="navbar-text pull-left">&copy;<?php echo date("Y"); ?> Sam Webb Development</p>
+			<p class="navbar-text pull-left">&copy;<?php echo date("Y"); ?> <a href="http://samwebb.me">Sam Webb</a> Development</p>
 			<a class="navbar-btn btn-primary btn pull-right btn-sm" href="https://twitter.com/SamTheWebb">Twitter</a>
 
 		</div>

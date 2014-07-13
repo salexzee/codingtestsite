@@ -1,9 +1,13 @@
 
-/******MAIN STYLES******/
-body {
+
+body, .blog-posts {
 	padding-bottom: 70px;
 }
 
 body, .firstPara {
 	padding-top: 50px;
+}
+
+.blog-list {
+	list-style: none;
 }
