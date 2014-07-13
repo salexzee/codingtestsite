@@ -8,11 +8,11 @@ if(isset($_POST['submitform'])) {
 	$email = trim($_POST['inputEmail']);
 	$message = trim(htmlspecialchars($_POST['inputMessage'], ENT_QUOTES));
 	
-	$fieldsArray = array {
+	$fieldsArray = array(
 		'inputName' => $name,
 		'inputEmail' => $email,
 		'inputMessage' => $message
-	};
+	);
 
 	$errorArray = array();
 
