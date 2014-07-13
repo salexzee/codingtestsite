@@ -4,7 +4,7 @@
 		<div class="jumbotron">
 		  <div class="container">
 			  <h1>Where to learn</h1>
-			  <p>Come read my first blog post about a few of the resources you can go to if you'd like to learn how to code.</p>
+			  <p>Come read my first blog post about a few of the resources you can use for learning how to code.</p>
 			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/where-to-learn.php"><span class="glyphicon glyphicon-share-alt"></span></a></p>
 		  </div>
 		</div>
