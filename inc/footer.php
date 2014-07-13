@@ -12,6 +12,8 @@
 	
 		<!-- jQuery -->
 		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<!-- jQuery Validate Plugin -->
+		<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
 		<!-- Bootstrap JS -->
 		<script src="js/bootstrap.min.js"></script>
 		<!-- Custom Javascript -->
