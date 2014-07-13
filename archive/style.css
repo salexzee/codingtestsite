@@ -1,0 +1,341 @@
+/* WHAT WHAT, IN THE BUTT */
+/* AIN'T NOBODY GOT TIME FO DAT */
+/* DEAD GIVEAWAY, DEEEAAAAD GIVEAWAY */
+
+
+
+/*****************************
+******************************
+
+GLOBAL RULES
+
+******************************
+*****************************/
+
+
+body {
+	font-family: "Comic Sans MS", sans-serif;
+	font-size: 1.2em;
+	width: 80%;
+	margin: 0 auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	margin: 0;
+	max-width: 800px;
+}
+
+
+
+
+
+/*****************************
+COLOR
+*****************************/
+
+html {
+	background-color: #55f;
+}
+
+a {
+	color: #55f;
+}
+
+a:focus,
+a:hover,
+a:active {
+	color: #55f;
+}
+
+.mainHeader h1 {
+	color: #f91;
+}
+
+.mainNav a {
+	color: #000;
+}
+
+.mainNav,
+.mainBody,
+.mainBody {
+	border-color: #000;
+	background-color: #fff;
+}
+
+.mainBody h4 {
+	color: #666;
+}
+
+footer  p {
+	font-weight: bold;
+	color: #f91;
+	margin-top: 20px;
+}
+
+
+
+/*****************************
+******************************
+
+SECTION: HEADER
+
+******************************
+*****************************/
+
+.mainHeader {
+	margin-top: 20px;
+}
+
+.mainHeader img {
+	height: 100px;
+	width: auto;
+	float: left;
+}
+
+.mainHeader h1 {
+	font-size: 75px;
+	margin: 0;
+	text-shadow: 1px 1px #fff,4px 4px 10px #000;
+}
+
+
+
+/*****************************
+******************************
+
+SECTION: NAVIGATION
+
+******************************
+*****************************/
+
+.mainNav {
+	margin: 10px 0;
+}
+
+.mainNav {
+	border: 1px solid;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #119;
+}
+
+.mainNav ul {
+	margin: 0 ;
+}
+
+.mainNav li {
+	display: inline-block;
+	width: 24%;
+	padding: 0;
+	margin: 5px auto;
+}
+
+.mainNav a {
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	margin-left: -25px;
+
+}
+
+
+
+/*****************************
+******************************
+
+SECTION: BODY
+
+******************************
+*****************************/
+
+.mainBody {
+	border: 1px solid;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #119;
+}
+
+.mainBody p, .mainBody h2, .mainBody h4 {
+	margin: 30px;
+	text-align: left;
+}
+
+.mainBody h4 {
+	font-size: .8em;
+}
+
+
+
+/*****************************
+******************************
+
+SECTION: FOOTER
+
+******************************
+*****************************/
+
+footer  p {
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+
+
+/*****************************
+******************************
+
+AT BELOW 850PX, RUN THIS CODE
+
+******************************
+*****************************/
+
+@media screen and (max-width: 900px) {
+
+	.mainHeader img {
+		height: 50px;
+	}
+
+	.mainHeader h1 {
+		font-size: 35px;
+	}
+}
+
+
+
+/*****************************
+******************************
+
+AT BELOW 650PX, RUN THIS CODE
+
+******************************
+*****************************/
+
+@media screen and (max-width: 660px) {
+	.mainNav li {
+		width: 48%;
+	}
+}
+
+
+
+
+/*****************************
+******************************
+
+AT BELOW 425PX, RUN THIS CODE
+
+******************************
+*****************************/
+
+@media screen and (max-width: 425px) {
+
+	.mainHeader img {
+		height: 35px;
+	}
+	
+	.mainHeader h1 {
+		font-size: 25px;
+	}
+	
+	.mainNav li {
+		width: 96%;
+	}
+	
+	.mainBody {
+		font-size: .8em;
+	}
+}
+
+
+
+
+
+/******************************/
+
+
+/*			PAGE SPECIFIC         */
+
+
+/******************************/
+
+
+/*****************************
+******************************
+
+CONTACT PAGE
+
+******************************
+*****************************/
+
+#contactSelectors {
+	text-align: center;
+	border-top: 1px solid #666;
+	margin: 0 30px;
+	padding-top: 20px;
+}
+
+#contactSelectors img {
+	width: 3em;
+	height: auto;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#contactSelectors img#twitter {
+	width: 2em;
+	background-color: #333;
+	margin-bottom: 5px;
+	padding: 7px;
+	border-radius: 5px;
+}
+
+
+
+/*****************************
+******************************
+
+RPL PAGE
+
+******************************
+*****************************/
+
+button[type="button"] {
+	margin-left: 20px;
+	height: 100px;
+	width: 100px;
+	border: 2px solid black;
+	background: darkgrey;
+	color: white;
+	border-radius: 100%;
+}
+
+button[type="button"]:hover {
+	color: #f91;
+	border-color: #f91;
+	background-color: #55f;
+}
+
+.jscode {
+	font-size: 12px;
+	color: #000;
+	background-color: rgba(0,0,255,.1);
+	width: 50%;
+	margin: 10px auto;
+	padding: 10px;
+	border: 1px dotted #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
