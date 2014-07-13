@@ -1,0 +1,9 @@
+
+/******MAIN STYLES******/
+body {
+	padding-bottom: 70px;
+}
+
+body, .firstPara {
+	padding-top: 50px;
+}
