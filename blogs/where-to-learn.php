@@ -31,4 +31,4 @@
 			</ul>
 		</section>
 			
-<?php include("../inc/footer.php"); ?>
+<?php include("../inc/blog-footer.php"); ?>
