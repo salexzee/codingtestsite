@@ -62,7 +62,7 @@ if(isset($_POST['submitform'])) {
 
 
 			<main class="container firstPara">
-				<p class="lead">If you'd like to contact me, please send me an email. Alternatively, you can find me on Twitter or GitHub.</p>
+				<p class="lead">If you'd like to contact me, please send me an email. Alternatively, you can find me on <a href="https://twitter.com/SamTheWebb">Twitter</a> or <a href="https://github.com/salexzee">GitHub</a>.</p>
 
 
 				<form role="form" id="contactForm" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" novalidate>
