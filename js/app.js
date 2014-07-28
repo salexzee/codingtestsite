@@ -1,3 +1,7 @@
+/*                 */
+/* FORM VALIDATION */
+/*                 */
+
 $("#contactForm").validate({
 	rules: {
 		inputName: {
@@ -28,3 +32,19 @@ $("#contactForm").validate({
 		}
 	}
 });
+
+
+
+/*                        */
+/* HIDE AND SHOW TUTORIAL */
+/*                        */
+	
+$('.tut-show-hide-button-1').click(function(){
+	$('.tut-show-hide-inline-el').slideToggle();
+});
+
+$('.tut-show-hide-button-2').click(function(){
+	$('.tut-show-hide-inline-el-2').slideToggle();
+});
+
+		

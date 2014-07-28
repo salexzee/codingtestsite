@@ -1,10 +1,12 @@
 
 
-body, .blog-posts {
+body,
+.blog-posts {
 	padding-bottom: 70px;
 }
 
-body, .firstPara {
+body,
+.firstPara {
 	padding-top: 50px;
 }
 
@@ -14,6 +16,20 @@ body, .firstPara {
 
 .btn {
  	margin-left: 1em;
+}
+
+.tut-button-style {
+	margin-bottom: 1em;
+}
+
+.tut-p-style {
+		font-weight: bold;
+		background-color: #efefef;
+		padding: 2px;	
+		border-radius: 4px;
+		color: #48599a;
+		display: none;
+		border: 1px solid #ccc;
 }
 
 @media screen and (max-width: 600px){
