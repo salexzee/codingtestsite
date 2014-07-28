@@ -3,9 +3,9 @@
 	<main>
 		<div class="jumbotron">
 		  <div class="container">
-			  <h1>Where to learn</h1>
-			  <p>Come read my first blog post about a few of the resources you can use for learning how to code.</p>
-			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/where-to-learn.php">Check it out!</a></p>
+			  <h1>Show and Hide (Tutorial)</h1>
+			  <p>New tutorial on how to use a button to show and hide (slide) other HTML elements.</p>
+			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/hide-show-text.php">Check it out!</a></p>
 		  </div>
 		</div>
 		<div class="container">
