@@ -3,14 +3,14 @@
 	<section class="container col-xs-10 blog-posts">
 		<h1>Show and Hide (Tutorial)</h1>
 		<p>In this short tutorial I'm going to show you how to show and hide HTML elements using jQuery. I'm going to assume that you have a basic knowledge of HTML, CSS and Javascript for this lesson. To start off, click the following button to see what I'm going to be teaching you.</p>
-		<button class="tut-show-hide-button-1 btn btn-primary tut-button-style">ME ME ME!</button>
+		<button class="tut-show-hide-button-1 btn btn-danger tut-button-style">ME ME ME!</button>
 		<p class="tut-show-hide-inline-el tut-p-style">This is a very simple thing to accomplish and I will be showing you how to do it with just 3 lines of jQuery. Now click the button again to hide me.</p>
 		
 		<h4>The HTML</h4>
-		<p>To start off this example you'll need 2 HTML elements.You'll <code>button</code> tags and below that, <code>p</code> tags. You'll need to give both elements a class or ID so that you can target them with jQuery. Give your <code>button</code> tag a class of <code>.button-1</code> and give your <code>p</code> tag a class of <code>.activate</code. Now inbetween the opening and closing <code>b</code> tags put whatever you want your button to say. Go ahead and do the same with your <code>p</code> tags. That's it, you're done with the HTML portion.</p>
+		<p>To start off this example you'll need 2 HTML elements.You'll <code>button</code> tags and below that, <code>p</code> tags. You'll need to give both elements a class or ID so that you can target them with jQuery. Give your <code>button</code> tag a class of <code>.button-1</code> and give your <code>p</code> tag a class of <code>.activate</code>. Now inbetween the opening and closing <code>b</code> tags put whatever you want your button to say. Go ahead and do the same with your <code>p</code> tags. That's it, you're done with the HTML portion.</p>
 		
 		<h4>A bit of CSS</h4>
-		<p>In this section I'm not going to go over how you want to style this. That's up to you. So go ahead and style up your <code>button</code> and <code>p</code>, I'll wait....... Now that your elements have been style, go to where you targeted <code>.activate</code> and give it the property <code>display: none;</code>. This will initially hide the paragraph text so that we can use our button to reveal it later. And that's pretty much it with CSS. See how easy this has been so far. Next up, we get into the jQuery that you'll be needing.</p>
+		<p>In this section I'm not going to go over how you want to style this. That's up to you. So go ahead and style up your <code>button</code> and <code>p</code>, I'll wait....... Now that your elements have been styled, go to where you targeted <code>.activate</code> and give it the property <code>display: none;</code>. This will initially hide the paragraph text so that we can use our button to reveal it later. And that's pretty much it with CSS. See how easy this has been so far. Next up, we get into the jQuery that you'll be needing.</p>
 
 		
 		<h4>Finally, the jQuery</h4>
@@ -32,7 +32,7 @@
 
 <p>Look at that, we've already completed the 1st and 3rd lines of this program. We're almost there. Now we have to figure out what to do with this function. So remember back at #3 we said, "Make the click event target the paragraph..." Let's do that part first. So we've already learned how to target an HTML element using jQuery. So try to select the paragraph using it's class. Do this inside the function. Once you're done, click the button below to check your code.</p>
 
-		<button class="tut-show-hide-button-2 btn btn-primary tut-button-style">Show Code</button>
+		<button class="tut-show-hide-button-2 btn btn-danger tut-button-style">Show Code</button>
 		<p class="tut-show-hide-inline-el-2 tut-p-style"><code>
 	$('.activate')</code></p>
 	
