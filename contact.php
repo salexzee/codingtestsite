@@ -91,7 +91,7 @@ if(isset($_POST['submitform'])) {
 						<label for="inputMessage">Message</label>
 						<textarea type="textarea" class="form-control" name="inputMessage" id="inputMessage" placeholder="Enter message..." value='<?php echo (isset($message) ? $message : ""); ?>'></textarea>
 					</div>
-					<button type="submit" class="btn btn-default col-xs-12" value="send" name="submitform">Submit</button>
+					<button type="submit" class="btn btn-default" value="send" name="submitform">Send email</button>
 				</form>
 
 
