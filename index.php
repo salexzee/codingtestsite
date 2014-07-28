@@ -5,7 +5,7 @@
 		  <div class="container">
 			  <h1>Where to learn</h1>
 			  <p>Come read my first blog post about a few of the resources you can use for learning how to code.</p>
-			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/where-to-learn.php"><span class="glyphicon glyphicon-share-alt"></span></a></p>
+			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/where-to-learn.php">Check it out!</a></p>
 		  </div>
 		</div>
 		<div class="container">
