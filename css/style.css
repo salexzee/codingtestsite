@@ -11,3 +11,13 @@ body, .firstPara {
 .blog-list {
 	list-style: none;
 }
+
+.btn {
+ 	margin-left: 1em;
+}
+
+@media screen and (max-width: 600px){
+	.footer-btn {
+		display: none;
+	}
+}
