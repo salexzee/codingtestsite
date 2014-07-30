@@ -1,12 +1,14 @@
-~THIS PROJECT~
-I've decided to change what this website is about once again. When I first created it,
-it was supposed to be a blog. I then changed it to be a site for me to text new coding
-techniques and technologies that I learn. Now, I've decided to switch it back to being
-a blog. I'm going to be doing this site in PHP with the obvious HTML, CSS and Javascript.
-For Javascript, I'll be using mostly jQuery and on the CSS side I'll probably be testing
-out some Bootstrap. I haven't used it before so I'll see how this goes. My goal with
-this blog is to still use new things I learn to add to the site, so as was before, this
-will be an ever changing project.
+CodingTestSite by Sam Webb
 
-To view the files from before the changes, look in the 'archive' folder.
+
+This is a personal project of mine. I've learned a lot about coding in different languages and I plan to use this site as a way to give back some of that information. I don't have a schedule for my blog posts yet, but I should have a new post at least once a week, possibly more often.
+
+------------------------------------------------
+
+Contact Me:
+If you have any suggestions or would like to contact me about anything please use one of the methods listed below.
+Twitter: @SamTheWebb
+Email: samwebb@samwebb.me
+
+
 
