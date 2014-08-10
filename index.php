@@ -4,7 +4,8 @@
 		<div class="jumbotron">
 		  <div class="container">
 			  <h1>Show and Hide (Tutorial)</h1>
-			  <p>New tutorial on how to use a button to show and hide (slide) other HTML elements.</p>
+			  <h6>June 28, 2014</h6>
+			  <p>New tutorial on how to use a button to show and hide (slide) other HTML elements using jQuery.</p>
 			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/hide-show-text.php">Check it out!</a></p>
 		  </div>
 		</div>
