@@ -55,6 +55,10 @@
 	<li>Learn how to use PHP to dynamically generate an <code>active</code> class for which ever page you're on so that your navbar shows your current page.</li>
 	</ul>
 
+	<p>Hopefully this helps you make the jump into back-end languages. They're fun and there's so much you can do with them.</p><br>
+	<p>Cheers,</p>
+	<p>Sam</p>
+
 </section>
 
 
