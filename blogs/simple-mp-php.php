@@ -2,7 +2,7 @@
 
 <section class="container col-xs-10 blog-posts">
 
-	<h1>Simple Multi-Page PHP</h1>
+	<h1>Simple Multi-Page PHP (Tutorial)</h1>
 
 	<p>For those that are new to web development and you'd like to know an easy way to make alterations of your websites a little easier, this is for you. Have you been ever been creating a website and wondered to yourself if there's a faster and more efficient way of making multiple pages of a website have the same layout? Well the answer to your question is yes. There are multiple ways to do this, but today I'm going to be talking about PHP.</p>
 
