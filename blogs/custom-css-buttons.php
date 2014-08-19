@@ -4,13 +4,13 @@
 
 	<h1>Custom CSS Buttons</h1>
 
-	<p>There are times that you just want a small button on your website that clearly states why you want a person to click on it. In these instances the default <code>button</code> works. I'm currently using Bootstrap for my website so this is how their default button looks:</p>
+	<p>There are times that you just want a small button on your website that clearly states why you want a person to click on it. In these instances the default <code>button</code> works. I'm currently using Bootstrap for my website so this is how their default buttons look:</p>
 
 	<form>
 		<input type="submit">
 	</form>
 
-	<p>This accomplishes everything you need, but what if you wanted your button to look like it was off and when you hovered over it, you were turning it on. Like this:</p>
+	<p>This accomplishes everything you need, but what if you wanted your button to look like it was turned off and when you hovered over it, you were turning it on. Like this:</p>
 
 	<form>
 		<input type="submit" id="tut-rectangle-button">
@@ -68,7 +68,7 @@
 		<input type="submit" id="tut-final-button">
 	</form>
 
-<p>That wasn't too difficult was it. Now that you have the knowledge to modify your buttons using CSS, I encourage you to go out and experiment with this. There are tons of interesting buttons that you can make and I hope you can take this little bit of knowledge and translate it to something great. Good luck.</p>
+<p>That wasn't too difficult was it. Now that you have the knowledge to modify your buttons using CSS, I encourage you to go out and experiment with this. There are tons of interesting buttons that you can make and I hope you can take this little bit of knowledge and translate it to something great. Maybe even get fancy and throw in some Javascript to make them do all kinds of crazy stuff. The world is yours to experiment with. Good luck.</p>
 	
 </div>
 <?php include("../inc/blog-footer.php"); ?>
