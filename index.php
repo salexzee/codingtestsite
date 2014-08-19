@@ -3,10 +3,10 @@
 	<main>
 		<div class="jumbotron">
 		  <div class="container">
-			  <h1>Simple Multi-Page PHP (Tutorial)</h1>
-			  <h6>August 10, 2014</h6>
+			  <h1>Custom Css Buttons (Tutorial)</h1>
+			  <h6>August 19, 2014</h6>
 			  <p>New tutorial on how to simplify a multi-page HTML setup, using PHP to make maintaining and updating your site more manageable and efficient.</p>
-			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/simple-mp-php.php">Check it out!</a></p>
+			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/custom-css-buttons.php">Check it out!</a></p>
 		  </div>
 		</div>
 		<div class="container">
