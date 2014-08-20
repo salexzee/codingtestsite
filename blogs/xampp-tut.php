@@ -21,12 +21,12 @@
 
 	<p>Now that you've seen your home page, you know your server is working. You're now free to erase everything in the <code>htdocs</code> folder and replace it with your own website. Me personally, I like to put folders of my websites in the <code>htdocs</code> folder so that I can type local host and navigate to each one. I'll show you what I mean.</p>
 	
-	<img src="../images/xampp-blog/htdocs.jpg" alt="" class="xampp-tut-image"><br><br>
-	<img src="../images/xampp-blog/htdocs-navigation.jpg" alt="" class="xampp-tut-image"><br><br>
-	<img src="../images/xampp-blog/htdocs-navigation-complete.jpg" alt="" class="xampp-tut-image"><br><br>
-	<img src="../images/xampp-blog/localhost-image.jpg" alt="" class="xampp-tut-image"><br><br>
-	<img src="../images/xampp-blog/websites-image.jpg" alt="" class="xampp-tut-image"><br><br>
-	<img src="../images/xampp-blog/complete.jpg" alt="" class="xampp-tut-image"><br><br>
+	<img src="../images/xampp-blog/htdocs.jpg" alt="Files image." class="xampp-tut-image"><br><br>
+	<img src="../images/xampp-blog/htdocs-navigation.jpg" alt="Files image." class="xampp-tut-image"><br><br>
+	<img src="../images/xampp-blog/htdocs-navigation-complete.jpg" alt="Files image." class="xampp-tut-image"><br><br>
+	<img src="../images/xampp-blog/localhost-image.jpg" alt="localhost image." class="xampp-tut-image"><br><br>
+	<img src="../images/xampp-blog/websites-image.jpg" alt="localhost/Websites image" class="xampp-tut-image"><br><br>
+	<img src="../images/xampp-blog/complete.jpg" alt="localhost => CodingTestSite image." class="xampp-tut-image"><br><br>
 
 	<p>As you can see, the Websites folder shows up in the browser. Click that and navigate to the website you'd like to view and it'll open like a normal website. Servers look for the <code>index.html</code> and <code>index.php</code> files to open automatically so everything should work perfectly. And that's it. That's how you obtain and start using XAMPP on Windows 7</p>
 
