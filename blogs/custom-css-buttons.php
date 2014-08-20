@@ -1,6 +1,6 @@
 <?php include("../inc/blog-header.php"); ?>
 
-<div class="container">
+<section class="container col-xs-10 blog-posts">
 
 	<h1>Custom CSS Buttons</h1>
 
@@ -70,5 +70,5 @@
 
 <p>That wasn't too difficult was it. Now that you have the knowledge to modify your buttons using CSS, I encourage you to go out and experiment with this. There are tons of interesting buttons that you can make and I hope you can take this little bit of knowledge and translate it to something great. Maybe even get fancy and throw in some Javascript to make them do all kinds of crazy stuff. The world is yours to experiment with. Good luck.</p>
 	
-</div>
+</section>
 <?php include("../inc/blog-footer.php"); ?>
