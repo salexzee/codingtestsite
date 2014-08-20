@@ -4,9 +4,9 @@
 		<div class="jumbotron">
 		  <div class="container">
 			  <h1>Custom Css Buttons (Tutorial)</h1>
-			  <h6>August 19, 2014</h6>
-			  <p>New tutorial on how to simplify a multi-page HTML setup, using PHP to make maintaining and updating your site more manageable and efficient.</p>
-			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/custom-css-buttons.php">Check it out!</a></p>
+			  <h6>August 22, 2014</h6>
+			  <p>New beginner tutorial on XAMPP for Windows 7. Where to get it and a simple introduction to using it as a server.</p>
+			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/xampp-tut.php">Check it out!</a></p>
 		  </div>
 		</div>
 		<div class="container">
