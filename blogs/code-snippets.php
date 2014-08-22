@@ -35,7 +35,7 @@
 
 	<p>Depending on which text editor you use, you may be able to save your own code snippets so that you can call them with keywords. Sublime Text is one example of a text editor with that capability. Also, with ST, you can download code snippet packages people have made for your favorite languages and use those to save time. In the future, I'll be doing an in-depth review on Sublime Text 3 and possibly a few tutorials on it, so stay tuned.</p>
 
-
+	<p>Hopefully this has shown you why you should start to use code snippets. If you start now, in the long term you'll start to see the benifits of this.</p>
 
 </section>
 
