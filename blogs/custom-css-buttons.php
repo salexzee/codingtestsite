@@ -44,7 +44,7 @@
 	
 	<p>For our CSS I'm going to assume you have a basic knowledge of the syntax. For starters, what we're going to do is grab the <code>.button-1</code> class and give it a background color of <code>#424587</code>, font color of <code>#f0f0f8</code>, width of <code>100px</code> and height of <code>40px</code>. Also, let's give it a border just for it to stand out a little more. Your code should look like this so far:</p>
 	
-<pre>
+	<pre>
 .button-1{
 	background-color: #424587;
 	color: #f0f0f8;
@@ -52,23 +52,23 @@
 	height: 40px;
 	border: 1px solid black;
 }
-</pre>
+	</pre>
 
 	<p>Mind you, you can use your own sizes and colors to fit your needs. Once that's done, we pretty much have our button. Simple right. But wait, now we want to do something on the <code>hover</code> state right? Ok, well below our <code>.button-1</code> block of code, we'll make a new block targeting its hover state. <code>.button-1:hover</code> is what we'll use. Now let's change the background color and we're done. </p>
 
-<pre>	
+	<pre>	
 .button-1:hover{
 	background-color: #90a5d9;
 }
-</pre>
+	</pre>
 
-<p>And for the final product:</p>
+	<p>And for the final product:</p>
 
-	<form>
-		<input type="submit" id="tut-final-button">
-	</form>
+		<form>
+			<input type="submit" id="tut-final-button">
+		</form>
 
-<p>That wasn't too difficult was it. Now that you have the knowledge to modify your buttons using CSS, I encourage you to go out and experiment with this. There are tons of interesting buttons that you can make and I hope you can take this little bit of knowledge and translate it to something great. Maybe even get fancy and throw in some Javascript to make them do all kinds of crazy stuff. The world is yours to experiment with. Good luck.</p>
+	<p>That wasn't too difficult was it. Now that you have the knowledge to modify your buttons using CSS, I encourage you to go out and experiment with this. There are tons of interesting buttons that you can make and I hope you can take this little bit of knowledge and translate it to something great. Maybe even get fancy and throw in some Javascript to make them do all kinds of crazy stuff. The world is yours to experiment with. Good luck.</p>
 	
 </section>
 <?php include("../inc/blog-footer.php"); ?>
