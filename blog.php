@@ -5,6 +5,7 @@
 				<p class="lead">These are some of the things that interest me in the web community. Things I've learned, things I want to learn and things I can't stand will all be documented right here. So sit back and enjoy. Hopefully you'll learn something along the way.</p>		
 				<ul class="blog-list">
 				
+					<li><a href="blogs/code-snippets.php"><h3>Why Save Code Snippets?</h3></a></li>
 					<li><a href="blogs/xampp-tut.php"><h3>Intro to XAMPP for Windows 7 (Tutorial for Beginners)</h3></a></li>
 					<li><a href="blogs/custom-css-buttons.php"><h3>Custom Css Buttons (Tutorial)</h3></a></li>
 					<li><a href="blogs/simple-mp-php.php"><h3>Simple Multi-Page PHP (Tutorial)</h3></a></li>
