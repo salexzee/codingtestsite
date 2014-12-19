@@ -3,10 +3,10 @@
 	<main>
 		<div class="jumbotron">
 		  <div class="container">
-			  <h1>Why Save Code Snippets?</h1>
-			  <h6>August 22, 2014</h6>
-			  <p>New blog post about why you should be saving the code you use the most, as snippets.</p>
-			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/code-snippets.php">Check it out!</a></p>
+			  <h1>How to Pick New Projects</h1>
+			  <h6>Dec 20, 2014</h6>
+			  <p>New blog post that gives people new to coding some ideas on starting new projects.</p>
+			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/pick_projects.php">Check it out!</a></p>
 		  </div>
 		</div>
 		<div class="container">
