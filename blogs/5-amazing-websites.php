@@ -2,7 +2,7 @@
 
 <section class="container col-xs-10 blog-posts lead">
 
-	<h1>5 Amazing Websites</h1>
+	<h1>5 Amazing Websites <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://codingtestsite.com/blogs/5-amazing-websites.php" data-text="You'll be amazed when you see these. Check out these 5 amazing websites." data-via="SamTheWebb" data-hashtags="blog" data-dnt="true">Tweet</a></h1>
 
     <?php include("../inc/ads.php"); ?>
 
@@ -29,5 +29,7 @@
     <?php include_once("../inc/comments.php"); ?>
     
 </section>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 <?php include("../inc/blog-footer.php"); ?>
