@@ -1,6 +1,6 @@
 <?php include("../inc/blog-header.php"); ?>
 
-<section class="container col-xs-10 blog-posts">
+<section class="container col-xs-10 blog-posts lead">
 
 	<h1>Why Save Code Snippets?</h1>
 

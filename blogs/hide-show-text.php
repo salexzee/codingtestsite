@@ -1,6 +1,6 @@
 <?php include("../inc/blog-header.php"); ?>
 
-	<section class="container col-xs-10 blog-posts">
+	<section class="container col-xs-10 blog-posts lead">
 		<h1>Show and Hide (Tutorial)</h1>
 
 		<?php include("../inc/ads.php"); ?>

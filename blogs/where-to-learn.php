@@ -1,13 +1,13 @@
 <?php include("../inc/blog-header.php"); ?>
 		
-		<section class="container col-xs-10 blog-posts">
+		<section class="container col-xs-10 blog-posts lead">
 			<h1>Where to learn</h1>
 
 			<?php include("../inc/ads.php"); ?>
 			
 			<p>When learning how to code, weather it be HTML, CSS, Javascript, PHP, Python, etc, there are a lot of places to learn. In this post, I'll go over some of the resources I've used in my past few months of learning and give you a basic rundown of what I think.</p>
 			
-			<h4><a href="http://youtube.com/">YouTube</a></h4>
+			<h3><a href="http://youtube.com/">YouTube</a></h3>
 			<p>This is probably the first place people go when they want to learn something. I went here first, because I didn't know any other resources that I could try to learn from. One of the big things that makes YouTube a good place to learn is that it's free. Not just free to you as the person watching videos, but also free to the people who want to post tutorials and get exposure.</p>
 			
 			<p>While that's a good thing, it's also a bad thing at the same time. With the fact that anyone is allowed to post videos to YouTube for free, it makes it to where there is a lot of bad advice floating out there. It's hard, as a newbie, to filter through the good advice and the bad. I'm not suggesting that you don't use YouTube, I still use it to this day to learn small things quickly.</p> 

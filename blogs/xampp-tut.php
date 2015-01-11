@@ -1,5 +1,5 @@
 <?php include("../inc/blog-header.php"); ?>
-<section class="container col-xs-10 blog-posts">
+<section class="container col-xs-10 blog-posts lead">
 
 	<h1>XAMPP for Windows 7(Tutorial for beginners)</h1>
 

@@ -1,6 +1,6 @@
 <?php include("../inc/blog-header.php"); ?>
 
-<section class="container col-xs-10 blog-posts">
+<section class="container col-xs-10 blog-posts lead">
 
 	<h1>Simple Multi-Page PHP (Tutorial)</h1>
 
@@ -19,30 +19,29 @@
 
 	<p>What you need to do now is make a folder in your root directory called <code>inc</code> which stands for includes. Basically, this is where you'll put all of your files that you want to use as includes in other files. I'll explain how this works in a minute. Inside of your <code>inc</code> folder, create a file named <code>header.php</code>. Now, go back to your <code>index.php</code> file and figure out what should be the same on all your pages. Let's say this is how your layout starts:</p>
 
-<xmp class="text-danger">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Easy PHP</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <header>
-    <div class="main-logo">
-      <p>Easy PHP</p>
-    </div>
-    <nav>
-      <ul>
-        <li><a href"index.php">Home</a></li>
-        <li><a href"blog.php">Blog</a></li>
-        <li><a href"portfolio.php">Portfolio</a></li>
-        <li><a href"contact.php">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-</xmp>
+<pre>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+  &lt;title&gt;Easy PHP&lt;/title&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;link rel="stylesheet" href="css/style.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;header&gt;
+    &lt;div class="main-logo"&gt;
+      &lt;p&gt;Easy PHP&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;nav&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href"index.php"&gt;Home&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href"blog.php">Blog&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href"portfolio.php"&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href"contact.php"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/nav&gt;
+  &lt;/header&gt;
+</pre>
 
 	<p>Now, let's say that this code should be the same on every page. What you would want to do now is cut all that text and paste it into the <code>header.php</code> file. In your <code>index.php</code> file, replace all of this with the php command <code>&lt;?php include ("inc/header.php"); ?></code>. What that piece of code does is it takes all the content from the <code>header.php</code> file and generates it into the <code>index.php</code> file. Do the same thing in the other three files and now you'll only have one place to change things and it will show on all your pages. Say you want to add a new page to your navigation. All you'll have to do is change it in the <code>header.php</code> file and it will display on all your pages. Simple right?</p>
 
