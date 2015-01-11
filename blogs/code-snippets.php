@@ -39,6 +39,8 @@
 
 	<p>Hopefully this has shown you why you should start to use code snippets. If you start now, in the long term you'll start to see the benifits of this.</p>
     
+    <?php include_once("../inc/comments.php"); ?>
+    
 </section>
 
 <?php include("../inc/blog-footer.php"); ?>

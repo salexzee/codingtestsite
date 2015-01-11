@@ -32,6 +32,7 @@
 
 	<p>As you can see, the Websites folder shows up in the browser. Click that and navigate to the website you'd like to view and it'll open like a normal website. Servers look for the <code>index.html</code> and <code>index.php</code> files to open automatically so everything should work perfectly. And that's it. That's how you obtain and start using XAMPP on Windows 7.</p>
         
+    <?php include_once("../inc/comments.php"); ?>
 
 </section>
 <?php include("../inc/blog-footer.php"); ?>

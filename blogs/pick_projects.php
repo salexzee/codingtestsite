@@ -29,6 +29,8 @@
 <h4>Conclusion</h4>
 <p>Now obviously there are a lot more projects than I mentioned in this blog post and there are a ton more ways to think about how you'd start a new side project. This list is how I think of new projects and hopefully this will help get you on the road of making something great.</p>
 
+<?php include_once("../inc/comments.php"); ?>
+
 </section>
 
 <?php include("../inc/blog-footer.php"); ?>

@@ -33,6 +33,7 @@
 				<li>Various other blog posts</li>
 			</ul>
     
+			<?php include_once("../inc/comments.php"); ?>
 
 		</section>
 			

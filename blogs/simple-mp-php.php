@@ -61,6 +61,7 @@
 	<p>Cheers,</p>
 	<p>Sam</p>
     
+	<?php include_once("../inc/comments.php"); ?>
 
 </section>
 

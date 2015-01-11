@@ -47,6 +47,7 @@
 	<h4>Congratulations!!!</h4>
 	<p>You've made a button that can show and hide other elements. You don't have to stick to hiding paragraphs, you can use this with images, multiple paragraphs or entire sections of your webpage. Have fun and experiment. Cheers.</p>
 	
+	<?php include_once("../inc/comments.php"); ?>
 
 	</section>
 
