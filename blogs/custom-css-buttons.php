@@ -4,6 +4,8 @@
 
 	<h1>Custom CSS Buttons</h1>
 
+	<?php include("../inc/ads.php"); ?>
+
 	<p>There are times that you just want a small button on your website that clearly states why you want a person to click on it. In these instances the default <code>button</code> works. I'm currently using Bootstrap for my website so this is how their default buttons look:</p>
 
 	<form>

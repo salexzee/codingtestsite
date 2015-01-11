@@ -4,6 +4,8 @@
 
 	<h1>Why Save Code Snippets?</h1>
 
+    <?php include("../inc/ads.php"); ?>
+
 	<p>How many of you out there still manually type in your starting HTML? I'll admit it, I still do sometimes. I just haven't been able to completely break the habbit yet. A lot of the projects a beginner will be working on will probably be fairly small, so its not such a big deal, but what about when you want you're about to start a large project and you want to save all the time you can. That's when code snippets come in handy.</p>
 
 	<p>What are code snippets you may ask? Well I'll tell you. In simplest terms, they're pieces of code that you have saved somewhere so that you can use them in your projects. You don't need to make a code snippet for everything you do while coding, but what you want to create them for are the pieces of code you use most often. Take this for instance:</p>

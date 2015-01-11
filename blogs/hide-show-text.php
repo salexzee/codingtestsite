@@ -2,6 +2,9 @@
 
 	<section class="container col-xs-10 blog-posts">
 		<h1>Show and Hide (Tutorial)</h1>
+
+		<?php include("../inc/ads.php"); ?>
+		
 		<p>In this short tutorial I'm going to show you how to show and hide HTML elements using jQuery. I'm going to assume that you have a basic knowledge of HTML, CSS and Javascript for this lesson. To start off, click the following button to see what I'm going to be teaching you.</p>
 		<button class="tut-show-hide-button-1 btn btn-danger tut-button-style">ME ME ME!</button>
 		<p class="tut-show-hide-inline-el tut-p-style">This is a very simple thing to accomplish and I will be showing you how to do it with just 3 lines of jQuery. Now click the button again to hide me.</p>

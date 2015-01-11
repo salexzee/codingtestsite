@@ -3,6 +3,9 @@
 <section class="container col-xs-10 blog-posts">
 
 <h1>How to Pick New Projects</h1>
+
+<?php include("../inc/ads.php"); ?>
+
 <p>For someone new to coding, people always say that the best way to retain information is to use what you've been learning on your own projects. What they don't tell you is how to go about choosing those projects. In this short post, I'm going to try to do that for you. I'm also fairly new to coding in the grand scheme of things and this is the list of things that I'm doing to help me build more projects. You don't need to incorporate all of these ideas, even just looking into one should be enough to start getting more projects in your portfolio.</p>
 
 <h4>Discover a local need</h4>

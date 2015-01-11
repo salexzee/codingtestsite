@@ -2,6 +2,9 @@
 		
 		<section class="container col-xs-10 blog-posts">
 			<h1>Where to learn</h1>
+
+			<?php include("../inc/ads.php"); ?>
+			
 			<p>When learning how to code, weather it be HTML, CSS, Javascript, PHP, Python, etc, there are a lot of places to learn. In this post, I'll go over some of the resources I've used in my past few months of learning and give you a basic rundown of what I think.</p>
 			
 			<h4><a href="http://youtube.com/">YouTube</a></h4>

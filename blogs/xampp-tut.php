@@ -3,6 +3,8 @@
 
 	<h1>XAMPP for Windows 7(Tutorial for beginners)</h1>
 
+	<?php include("../inc/ads.php"); ?>
+
 	<p>When you first start your journey to learn web development, you'll soon learn that you want to create your website on your local computer before uploading it to your live server. So you'll be making your HTML files and they'll show up right in your browser since they'll be written in a client side language. But what about when that day comes when you want to start learning a server side language. Maybe you want to make a contact form or you want to start a blog with a comment section. These things can be achieved by using a back-end language(PHP, Ruby, Python, etc.).</p>
 	
 	<p>I have a few computers which on them I run OS X, Windows 7 and Ubuntu Linux. On all of these, if I want to work on my website(this website), seeing that it's written in PHP, I have to use server software. Today, I'm going to show you how to obtain and start to use XAMPP for Windows 7. Its an easy process and I'll make sure you know everything you need to know to start working on your projects today. Let's get started.</p>

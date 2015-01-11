@@ -4,6 +4,8 @@
 
 	<h1>Simple Multi-Page PHP (Tutorial)</h1>
 
+  <?php include("../inc/ads.php"); ?>
+
 	<p>For those that are new to web development and you'd like to know an easy way to make alterations of your websites a little easier, this is for you. Have you been ever been creating a website and wondered to yourself if there's a faster and more efficient way of making multiple pages of a website have the same layout? Well the answer to your question is yes. There are multiple ways to do this, but today I'm going to be talking about PHP.</p>
 
 	<p>PHP is a back-end language, which means instead of the browser interpreting your code, a request is sent to the server and your code is run there and sent back out to the browser. That may sound complicated to someone new to this, but it really isn't. Simply put, what this does is makes your website able to do much more complex tasks. There are tons and tons of things possible when using a back-end language on your website, and that's something you can choose to look into after this. With this, I am not trying to convince you to use PHP on all your websites, but this is an easy way to see the power of using a back-end language. Don't be afraid to test out Python and/or Ruby as well to see if there's one you prefer. Now, let's get into it.</p>
