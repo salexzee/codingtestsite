@@ -3,10 +3,10 @@
 	<main>
 		<div class="jumbotron">
 		  <div class="container">
-			  <h1>How to Pick New Projects</h1>
-			  <h6>Dec 20, 2014</h6>
-			  <p>New blog post that gives people new to coding some ideas on starting new projects.</p>
-			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/pick_projects.php">Check it out!</a></p>
+			  <h1>5 Amazing Websites</h1>
+			  <h6>Jan 11, 2015</h6>
+			  <p>I've put together a list of 5 really amazing websites you have to see!</p>
+			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/5-amazing-websites.php">Check it out!</a></p>
 		  </div>
 		</div>
 		<div class="container">
