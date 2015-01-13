@@ -1,4 +1,4 @@
-<?php include("inc/config.php"); ?>
+<?php include("../inc/config.php"); ?>
 <?php
 
 $hasError = false;
@@ -57,7 +57,7 @@ if(isset($_POST['submitform'])) {
 ?>
 
 
-<?php include("inc/header.php"); ?>
+<?php include(ROOT_PATH . "inc/header.php"); ?>
 
 
 
@@ -98,4 +98,4 @@ if(isset($_POST['submitform'])) {
 
 			</main>
 
-<?php include("inc/footer.php"); ?>
+<?php include(ROOT_PATH . "inc/footer.php"); ?>

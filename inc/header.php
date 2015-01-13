@@ -14,7 +14,7 @@
 	<header class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="<?php echo BASE_URL; ?>index.php">CodingTestSite</a>
+				<a class="navbar-brand" href="<?php echo BASE_URL; ?>">CodingTestSite</a>
 				<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
@@ -23,8 +23,8 @@
 			</div> 
 			<nav class="collapse navbar-collapse navHeaderCollapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li> <a href="<?php echo BASE_URL; ?>blog.php">Blog</a> </li>
-					<li> <a href="<?php echo BASE_URL; ?>contact.php">Contact</a> </li>
+					<li> <a href="<?php echo BASE_URL; ?>blogs/">Blog</a> </li>
+					<li> <a href="<?php echo BASE_URL; ?>contact/">Contact</a> </li>
 				</ul>
 			</nav>
 		</div>
