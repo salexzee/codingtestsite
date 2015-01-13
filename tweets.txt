@@ -3,3 +3,5 @@ You'll be amazed when you see these. Check out these 5 amazing #websites. http:/
 My list on the different ways to go about choosing your next #web project. http://codingtestsite.com/blogs/pick_projects.php #blog
 
 Make #coding easier by saving snippets of code that you use on a regular basis. http://codingtestsite.com/blogs/code-snippets.php #blog
+
+For those of you that are tired of regular browser styled #html buttons, you're in luck. http://codingtestsite.com/blogs/custom-css-buttons.php #blog
