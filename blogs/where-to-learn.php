@@ -1,3 +1,4 @@
+<?php include("../inc/config.php"); ?>
 <?php include("../inc/blog-header.php"); ?>
 		
 		<section class="container col-xs-10 blog-posts lead">

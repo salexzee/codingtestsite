@@ -1,3 +1,4 @@
+<?php include("inc/config.php"); ?>
 <?php include("inc/header.php"); ?>
 
 	<main>

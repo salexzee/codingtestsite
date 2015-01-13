@@ -1,1 +1,5 @@
 RewriteEngine On
+
+RewriteRule ^blogs/$ /CodingTestSite/blogs/blog.php
+
+RewriteRule ^blog.php$ /CodingTestSite/blogs/ [R=301]

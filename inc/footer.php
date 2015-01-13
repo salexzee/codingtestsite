@@ -12,9 +12,9 @@
 		<!-- jQuery Validate Plugin -->
 		<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
 		<!-- Bootstrap JS -->
-		<script src="js/bootstrap.min.js"></script>
+		<script src="<?php echo BASE_URL; ?>js/bootstrap.min.js"></script>
 		<!-- Custom Javascript -->
-		<script src="js/app.js"></script>
+		<script src="<?php echo BASE_URL; ?>js/app.js"></script>
 
 </body>
 </html>
