@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^blogs/$ /blogs/blog.php
+RewriteRule ^contact/$ contact/contact.php
+
+RewriteRule ^blog.php$ /blogs/ [R=301]
+RewriteRule ^contact.php$ /contact/ [R=301]
