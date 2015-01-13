@@ -23,8 +23,8 @@
 			</div> 
 			<nav class="collapse navbar-collapse navHeaderCollapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li> <a href="../blog.php">Blog</a> </li>
-					<li> <a href="../contact.php">Contact</a> </li>
+					<li> <a href="../blogs/">Blog</a> </li>
+					<li> <a href="../contact/">Contact</a> </li>
 				</ul>
 			</nav>
 		</div>
