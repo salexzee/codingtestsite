@@ -3,7 +3,7 @@
 
 <section class="container col-xs-10 blog-posts lead">
 
-	<h1>Simple Multi-Page PHP (Tutorial)</h1>
+	<h1>Simple Multi-Page PHP (Tutorial) <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://codingtestsite.com/blogs/simple-mp-php.php" data-text="Why would you type the same #HTML #code on multiple pages? #PHP will make life much easier." data-via="SamTheWebb" data-hashtags="blog" data-dnt="true">Tweet</a></h1>
 
   <?php include("../inc/ads.php"); ?>
 
@@ -65,7 +65,7 @@
 
 </section>
 
-
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
 <?php include("../inc/blog-footer.php"); ?>
