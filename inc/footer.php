@@ -3,6 +3,7 @@
 			<p class="navbar-text pull-left">&copy;<?php echo date("Y"); ?> <a href="http://samwebb.me">Sam Webb</a> Development</p>
 			<a class="navbar-btn btn-primary btn pull-right btn-sm footer-btn" href="https://twitter.com/SamTheWebb">Twitter</a> <!-- TWITTER BUTTON -->
 			<a class="navbar-btn btn-primary btn pull-right btn-sm footer-btn" href="https://github.com/salexzee">GitHub</a> <!-- GITHUB BUTTON -->
+			<a class="navbar-btn btn-primary btn pull-right btn-sm footer-btn"href="https://plus.google.com/117224753152187451001" rel="publisher">Google+</a>
 
 		</div>
 	</footer>
