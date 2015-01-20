@@ -5,3 +5,11 @@ My list on the different ways to go about choosing your next #web project. http:
 Make #coding easier by saving snippets of code that you use on a regular basis. http://codingtestsite.com/blogs/code-snippets.php #blog
 
 For those of you that are tired of regular browser styled #html buttons, you're in luck. http://codingtestsite.com/blogs/custom-css-buttons.php #blog
+
+For those looking to get into #PHP and you're using a #Windows machine, check this out: http://codingtestsite.com/blogs/xampp-tut.php #blog
+
+Why would you type the same #HTML #code on multiple pages? #PHP will make life much easier. http://codingtestsite.com/blogs/simple-mp-php.php #blog
+
+#jQuery makes showing and hiding #HTML elements a breeze. Learn how to do it. http://codingtestsite.com/blogs/hide-show-text.php #blog
+
+When you first get into #coding, you might be confused on where to start. Try these resources: http://codingtestsite.com/blogs/where-to-learn.php #blog
