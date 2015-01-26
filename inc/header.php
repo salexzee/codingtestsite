@@ -7,6 +7,9 @@
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="<?php echo BASE_URL; ?>css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo BASE_URL; ?>css/style.css">
+	<?php if ($colors = "on") { ?>
+		<link rel="stylesheet" href="<?php echo BASE_URL; ?>css/colors.css">
+	<?php } ?>
 </head>
 
 
