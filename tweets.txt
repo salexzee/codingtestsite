@@ -13,3 +13,5 @@ Why would you type the same #HTML #code on multiple pages? #PHP will make life m
 #jQuery makes showing and hiding #HTML elements a breeze. Learn how to do it. http://codingtestsite.com/blogs/hide-show-text.php #blog
 
 When you first get into #coding, you might be confused on where to start. Try these resources: http://codingtestsite.com/blogs/where-to-learn.php #blog
+
+New color scheme picker I made for further #learning. Check it out! :D http://codingtestsite.com/colors/ #blog #php #javascript #jquery

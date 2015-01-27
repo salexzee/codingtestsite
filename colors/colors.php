@@ -10,6 +10,7 @@ include(ROOT_PATH . "inc/header.php");
 
 		<h1>Welcome to My Color Pallette Picker</h1>
 		<p>Pick a color scheme and you'll get 5 colors that compliment each other for your next project.</p>
+		<p>This project was for my learning purposes, these color schemes are for anyone to use.</p>
 
 	</section>
 
