@@ -1,3 +1,12 @@
-.colors h1 {
+.colors,
+#cp {
 	text-align: center;
 }
+
+#cp {
+	margin-top: 10px;
+	width: 30%;
+	height: 50px;
+	font-size: 2.5em;
+}
+

@@ -54,7 +54,9 @@ $(document).ready(function(){
 	/* COLOR PICKER APPLICATION */
 	/*							*/
 
-
+	function getColor(){
+		
+	}
 
 
 
