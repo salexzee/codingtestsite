@@ -6,6 +6,7 @@
 				<p class="lead">These are some of the things that interest me in the web community. Things I've learned, things I want to learn and things I can't stand will all be documented right here. So sit back and enjoy. Hopefully you'll learn something along the way.</p>		
 				<ul class="blog-list">
 				
+					<li><a href="chrome-theme.php"><h3>Easy Chrome Theme</h3></a></li>
 					<li><a href="5-amazing-websites.php"><h3>5 Amazing Websites</h3></a></li>
 					<li><a href="pick_projects.php"><h3>How to Pick New Projects</h3></a></li>
 					<li><a href="code-snippets.php"><h3>Why Save Code Snippets?</h3></a></li>

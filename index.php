@@ -1,13 +1,13 @@
 <?php include("inc/config.php"); ?>
-<?php include("inc/header.php"); ?>
+<?php include(ROOT_PATH . "inc/header.php"); ?>
 
 	<main>
 		<div class="jumbotron">
 		  <div class="container">
-			  <h1>5 Amazing Websites</h1>
-			  <h6>Jan 11, 2015</h6>
-			  <p>I've put together a list of 5 really amazing websites you have to see!</p>
-			  <p><a class="btn btn-primary btn-lg" role="button" href="blogs/5-amazing-websites.php">Check it out!</a></p>
+			  <h1>Easy Chrome Theme</h1>
+			  <h6>Jan 28, 2015</h6>
+			  <p>Check out how I created my first Chrome theme!</p>
+			  <p><a class="btn btn-primary btn-lg" role="button" href="<?php echo BASE_URL; ?>blogs/chrome-theme.php">Check it out!</a></p>
 		  </div>
 		</div>
 		<div class="container">
@@ -19,4 +19,4 @@
 		</div> 
 	</main>
 
-<?php include("inc/footer.php"); ?>
+<?php include(ROOT_PATH . "inc/footer.php"); ?>
