@@ -54,11 +54,26 @@ $(document).ready(function(){
 	/* COLOR PICKER APPLICATION */
 	/*							*/
 
-	function getColor(){
-		
+	var colors = ['#000000', '#ff0000', '#00ff00', '#0000ff', '#ffffff'];
+
+	function getColor(value, colors){
+		for (color of colors) {
+			if (color === value) {
+				return color;
+			} else {
+				$('input#cp').css("border: 1px solid red;");
+			}
+		}
 	}
 
-
+	$('#cp').focusout(function(){
+		var value = $(this).val();
+		var basecolor = getColor(value, colors);
+		console.log(basecolor);
+		if (basecolor) {
+			$('#base-color').css("background", basecolor );
+		}
+	});
 
 
 
