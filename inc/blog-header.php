@@ -23,6 +23,7 @@
 			</div> 
 			<nav class="collapse navbar-collapse navHeaderCollapse">
 				<ul class="nav navbar-nav navbar-right">
+					<li> <a href="<?php echo BASE_URL; ?>letters/">Letters</a></li>
 					<li> <a href="<?php echo BASE_URL; ?>colors/">Colors</a></li>
 					<li> <a href="../blogs/">Blog</a> </li>
 					<li> <a href="../contact/">Contact</a> </li>
