@@ -105,6 +105,16 @@ $(document).ready(function(){
 		}
 	});
 
-
+	
 
 });
+
+/*                  */
+/* LETTER GENERATOR */
+/*                  */
+
+function generate(){
+	var letters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
+	var random_number = Math.floor(Math.random() * 26);
+	$("#letter").html(letters[random_number]);
+}
