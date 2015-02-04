@@ -3,7 +3,9 @@ RewriteEngine On
 RewriteRule ^blogs/$ /CodingTestSite/blogs/blog.php
 RewriteRule ^contact/$ /CodingTestSite/contact/contact.php
 RewriteRule ^colors/$ /CodingTestSite/colors/colors.php
+RewriteRule ^letters/$ /CodingTestSite/letters/letters.php
 
 RewriteRule ^blog.php$ /CodingTestSite/blogs/ [R=301]
 RewriteRule ^contact.php$ /CodingTestSite/contact/ [R=301]
 RewriteRule ^colors.php$ /CodingTestSite/colors/ [R=301]
+RewriteRule ^letters.php$ /CodingTestSite/letters/ [R=301]
